@@ -39,3 +39,11 @@ Each essay has a visual in `assets/`.
 - `no-gyan-02.png` — Adapting the hiring bar visual.
 
 The #2 page also uses its PNG as the Open Graph social preview.
+
+## Essay layout
+
+No Gyan uses a consistent editorial rhythm:
+
+`idea → tension → visual model → implications → punchline`
+
+Homepage visuals are small, uncropped previews. On individual essay pages, the visual appears after the core tension/pivot rather than as a hero image.
