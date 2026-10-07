@@ -30,3 +30,12 @@ The site will publish at:
 5. Commit and push. GitHub Pages republishes automatically.
 
 There is intentionally no build system or dependency: plain HTML + one CSS file.
+
+## Visuals
+
+Each essay has a visual in `assets/`.
+
+- `no-gyan-01.jpeg` — final Why No Gyan visual and social preview.
+- `no-gyan-02.png` — Adapting the hiring bar visual.
+
+The #2 page also uses its PNG as the Open Graph social preview.

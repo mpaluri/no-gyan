@@ -32,3 +32,7 @@ nav a{margin-left:20px;text-decoration:none}
 .back{display:inline-block;margin-top:45px;color:var(--muted);font-family:ui-sans-serif,sans-serif;font-size:14px}
 footer{border-top:1px solid var(--line);padding:28px 0 45px;color:var(--muted);font-size:13px}
 @media(max-width:600px){.post-card{grid-template-columns:45px 1fr}.hero{padding-top:55px}nav{float:none;display:block;margin-top:12px}nav a{margin:0 18px 0 0}.prose{font-size:19px}}
+
+.visual-wrap{margin:34px 0 48px}
+.essay-visual{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px;background:#fff}
+.post-thumb{margin-top:18px;width:100%;aspect-ratio:16/9;object-fit:cover;border:1px solid var(--line);border-radius:10px;background:#fff}
